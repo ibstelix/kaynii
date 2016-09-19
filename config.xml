@@ -1,0 +1,15 @@
+<widget id="A6912430330572"  version="0.0.1">
+    <name>Kayniiv1</name>
+    <description>
+        Kaynii Prototype v1
+    </description>
+    <author email="ibstelix@gmail.com" href="http://www.kaynii.com">
+        developer
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="bounces" value="true" />
+    <feature name="rongCloud2">
+        <param name="appKey" value="pwe86ga5epxb6" />
+    </feature>
+</widget>
